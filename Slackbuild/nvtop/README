@@ -1,0 +1,13 @@
+nvtop (GPU process monitor)
+
+Nvtop stands for Neat Videocard TOP, a (h)top like task monitor for AMD,
+Intel and NVIDIA GPUs. It can handle multiple GPUs and print information
+about them in a htop familiar way.
+
+Supports AMD GPUs via the amdgpu driver, Intel GPUs, and NVIDIA GPUs.
+
+No additional dependencies are required beyond the standard Slackware
+development tools (cmake is included in Slackware's default d/ series).
+
+Home: https://github.com/Syllo/nvtop
+

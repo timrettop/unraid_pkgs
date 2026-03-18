@@ -8,14 +8,13 @@
 2eac0545b6aa4ec650b85e8f8b1bca9e  ./boost/boost-1.87.0-x86_64-1.txz
 d121bfde83ef326db2ae83075903181a  ./borgbackup/borgbackup-1.4.0-x86_64-2_s257.tgz
 7a638bb1845704e9c65fe93f4db28a8c  ./btop/btop-1.4.0-x86_64-1_SBo.tgz
-51e19f18fec4300ba31ef822fc9c67bd  ./buildlist.sh.old
 77d6ac7614adafe60e0c79a857352fc8  ./bwm-ng/bwm-ng-0.6.3-x86_64-2_SBo.tgz
 178429cd2abebc79025f9c720a2bc4e0  ./cksfv/cksfv-1.3.14-x86_64-1_SBo.tgz
 0b65b7b7ac2262f1a9b998cbb9f913e2  ./etherwake/etherwake-1.09-x86_64-5cf.txz
 2ba16c27a98ecfed5b1d5043247c7652  ./exiftool/exiftool-13.00-noarch-1_SBo.tgz
 869791aa334b742a0198eefbeed25bb7  ./fastfetch/fastfetch-2.34.0-x86_64-1_SBo.tgz
 1819824fac87b96665f62d43cfd9f72d  ./fdupes/fdupes-1.6.1-x86_64-1_SBo.tgz
-15614768e02c20bac096e02d794afb01  ./FILE_LIST
+f59e32bee49565187a3c7b3dfbdd81c2  ./FILE_LIST
 b904959464463a0f144a956da40e3eb1  ./fio/fio-3.38-x86_64-1_SBo.tgz
 9d4ce2732aa948e1482772a40f834f1f  ./fish/fish-3.7.1-x86_64-1_SBo.tgz
 83c5df2a72fda11689455850e045f1dd  ./fzf/fzf-0.57.0-x86_64-1_SBo.tgz
@@ -42,6 +41,7 @@ b91dbe8e2300cd9fe58da6d2da8f24d5  ./msgpack-python/msgpack-python-1.1.0-x86_64-1
 d9be56142b967ea72bf19193eaf92103  ./nload/nload-0.7.4-x86_64-1_SBo.tgz
 b6a713447d08d28ebbbab1b3e6cc85db  ./nodeenv/nodeenv-1.6.0-x86_64-1_SBo.tgz
 c4843d9c3addb4c7e4450f4f3d4bec28  ./nodejs/nodejs-22.13.0-x86_64-1.txz
+588f3ee93539dd91b2d7f860cf02e9a7  ./nvtop/nvtop-3.3.2-x86_64-1_s257.tgz
 89fc8089a10df5478c4dc1e7fd4f2dd1  ./p7zip/p7zip-17.04-x86_64-1_SBo.tgz
 68b129f07cfd87902229aaf01e78834c  ./par2cmdline-turbo/par2cmdline-turbo-1.1.1-x86_64-1_SBo.tgz
 49a8ec2245282ef99e1ef39506604f42  ./par2cmdline/par2cmdline-0.8.1-x86_64-1_SBo.tgz

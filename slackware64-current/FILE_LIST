@@ -1,4 +1,4 @@
-drwxr-xr-x 79 timpotter staff        2528 2026-03-17 19:45 .
+drwxr-xr-x 79 timpotter staff        2528 2026-03-17 23:14 .
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./7zip
 -rw-r--r--  1 timpotter staff     1476903 2026-03-17 18:45 ./7zip/7zip-24.09-x86_64-1_SBo.tgz
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./UASM
@@ -21,7 +21,6 @@ drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./borgbackup
 -rw-r--r--  1 timpotter staff     1925351 2026-03-17 18:45 ./borgbackup/borgbackup-1.4.0-x86_64-2_s257.tgz
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./btop
 -rw-r--r--  1 timpotter staff      682313 2026-03-17 18:45 ./btop/btop-1.4.0-x86_64-1_SBo.tgz
--rw-r--r--  1 timpotter staff        1453 2026-03-17 19:44 ./buildlist.sh.old
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./bwm-ng
 -rw-r--r--  1 timpotter staff       51491 2026-03-17 18:45 ./bwm-ng/bwm-ng-0.6.3-x86_64-2_SBo.tgz
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./cksfv
@@ -86,6 +85,8 @@ drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./nodeenv
 -rw-r--r--  1 timpotter staff       77121 2026-03-17 18:45 ./nodeenv/nodeenv-1.6.0-x86_64-1_SBo.tgz
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./nodejs
 -rw-r--r--  1 timpotter staff    15131648 2026-03-17 18:45 ./nodejs/nodejs-22.13.0-x86_64-1.txz
+drwxr-xr-x  3 timpotter staff          96 2026-03-17 22:52 ./nvtop
+-rw-r--r--  1 timpotter staff       94067 2026-03-17 22:50 ./nvtop/nvtop-3.3.2-x86_64-1_s257.tgz
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./p7zip
 -rw-r--r--  1 timpotter staff     4822656 2026-03-17 18:45 ./p7zip/p7zip-17.04-x86_64-1_SBo.tgz
 drwxr-xr-x  3 timpotter staff          96 2026-03-17 18:45 ./par2cmdline
